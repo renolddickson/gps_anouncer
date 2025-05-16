@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186180895446",
+    "project_id": "bus-tracking-750d8",
+    "storage_bucket": "bus-tracking-750d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186180895446:android:048901d3ba9c03750a3f77",
+        "android_client_info": {
+          "package_name": "com.example.gps_anouncer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3J_87jzLKLvDdLVVPOWGY-tXB3O_HnoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
